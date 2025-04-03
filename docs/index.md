@@ -64,7 +64,3 @@ I provide comprehensive support throughout your journey:
 - Data migration assistance
 - Staff training and documentation
 - Ongoing technical support
-
-## Ready to Transform Your Practice?
-
-Let's discuss how I can help streamline your tax practice operations. My solution is designed to grow with your business while maintaining the highest standards of security and efficiency.
