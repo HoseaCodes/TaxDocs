@@ -1,6 +1,6 @@
 # Our Tech Stack
 
-At Ambitious Concepts, I've carefully selected a modern and robust tech stack that prioritizes developer experience, performance, and scalability. Here's a detailed breakdown of our technology choices:
+I've carefully selected a modern and robust tech stack that prioritizes developer experience, performance, and scalability. Here's a detailed breakdown of our technology choices:
 
 ## Core Framework
 - **Next.js with App Router**: I leverage server components for optimal performance and enhanced SEO capabilities
